@@ -16,6 +16,7 @@ git commit -m "Commit OK" //para commit
 //copiar para o gitBash os comandos do título "..or push an existing repository..."
 //login/senha - validação em duas etapas
 
+git push -u origin main //para atualizar repositório do gitHub
 
 -----------------------------------
 Etapas do fluxo de dados do Git
