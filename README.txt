@@ -1,4 +1,6 @@
-Hello Git and GitHub
+CheatSheet - Github
+
+https://education.github.com/git-cheat-sheet-education.pdf
 
 git init //para tornar o diretório atual em um repositório git
 
